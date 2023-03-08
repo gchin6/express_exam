@@ -1,0 +1,49 @@
+.navbar {
+  margin: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+}
+
+a {
+  background-color: gray;
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+
+a:hover {
+  background-color: rgb(71, 71, 71);
+}
+
+.home {
+  position: absolute;
+  left: 1rem;
+}
+
+.content {
+  position: absolute;
+  right: 1rem;
+}
+
+.portfolio {
+  position: absolute;
+  right: 7rem;
+}
+
+.about {
+  position: absolute;
+  right: 13.5rem;
+}
+
+p {
+  margin: 4rem;
+  font-size: 25px;
+}
+
+.active {
+  background-color: rgb(71, 71, 71);
+}
+
