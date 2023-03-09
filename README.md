@@ -23,7 +23,7 @@
 5. 若看見此行訊息則代表順利運行，打開瀏覽器進入到以下網址
 
    ```bash
-   express is running on http:localhost:3000
+   express is running on http://localhost:3000
    ```
 
 6. 若欲暫停使用
